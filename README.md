@@ -1,5 +1,9 @@
-Hey there 👋, I'm Sadhita Barman
-💻 Code. 🎨 Create. ⚡ Conquer.
+<h1 align="center">Hey there 👋, I'm Sadhita Barman</h1>
+<h3 align="center">💻 Code. 🎨 Create. ⚡ Conquer.</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F79CF0&width=435&lines=CS+Undergrad+%7C+ML+Explorer+%7C+UI+Lover;Small+Business+Owner+%F0%9F%92%BC;Building+cool+things+with+tech+%26+art+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
+</p>
 
 ---
 🌟 About Me
@@ -13,10 +17,10 @@ Hey there 👋, I'm Sadhita Barman
 
 ---
 
-## 💻 Tech Stack & Tools
+### 🔧 Tech Stack & Tools
+![Languages](https://skillicons.dev/icons?i=python,c,cpp,html,css,js,java)
+![Tools](https://skillicons.dev/icons?i=git,github,figma,vscode,pycharm,postman)
 
-Languages:python, cpp, sql, html, css, react.js
-Tools:git, github, figma, vscode, google colab
 ---
 
 ## 🚀 Currently Working On
