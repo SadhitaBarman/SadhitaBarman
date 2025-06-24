@@ -2,8 +2,9 @@
 <h3 align="center">💻 Code. 🎨 Create. ⚡ Conquer.</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F79CF0&center=true&width=500&lines=CS+Undergrad+%7C+ML+Explorer+%7C+Small+Business+Owner;Coding+by+day%2C+hustling+by+heart" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F79CF0&center=true&width=600&lines=CS+Undergrad+%7C+ML+Explorer+%7C+Small+Business+Owner;Coding+by+day%2C+hustling+by+heart" alt="Typing SVG" />
 </p>
+
 
 ---
 🌟 About Me
