@@ -16,10 +16,43 @@
 - 💬 Pronouns: `She/Her`
 
 ---
-
 ### 🔧 Tech Stack & Tools
-![Languages](https://skillicons.dev/icons?i=python,c,cpp,html,css,js,java)
-![Tools](https://skillicons.dev/icons?i=git,github,figma,vscode,pycharm,postman)
+
+<p align="left">
+
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+</a>
+<a href="https://isocpp.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
+</a>
+<a href="https://reactjs.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=react" alt="React" />
+</a>
+<br />
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" />
+</a>
+<a href="https://github.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+</a>
+<a href="https://figma.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
+</a>
+<a href="https://code.visualstudio.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />
+</a>
+<a href="https://colab.research.google.com/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_Colaboratory_SVG_Logo.svg" alt="Google Colab" width="40px" />
+</a>
+
+</p>
 
 ---
 
