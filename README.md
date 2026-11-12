@@ -1,86 +1,132 @@
-<h1 align="center">Hey there 👋, I'm Sadhita Barman</h1>
-<h3 align="center">💻 Code. 🎨 Create. ⚡ Conquer.</h3>
+# Hey, I'm Sadhita 👋🏻
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F79CF0&center=true&width=600&lines=CS+Undergrad+%7C+ML+Explorer+%7C+Small+Business+Owner;Coding+by+day%2C+hustling+by+heart" alt="Typing SVG" />
-</p>
+### `Performance Marketing × Data × AI`
 
+I like turning **messy data into decisions, ideas into experiments, and experiments into things that actually work.**
 
----
-🌟 About Me
-
-- 🧠 CS student | ML enthusiast  
-- 🎨 Passionate about **Art, Code, and Colors**  
-- 📚 Currently learning **DSA**, **ML/DL**, and **Frontend**  
-- 🛍️ Running a small business on the side 
-- ⚡ Fun fact: I can sketch, code, and pitch — all in one day  
-- 💬 Pronouns: `She/Her`
-
----
-### 🔧 Tech Stack & Tools
-
-<p align="left">
-
-<a href="https://www.python.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" />
-</a>
-<a href="https://isocpp.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
-</a>
-<a href="https://reactjs.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=react" alt="React" />
-</a>
-<br />
-<a href="https://git-scm.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" />
-</a>
-<a href="https://github.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
-</a>
-<a href="https://figma.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
-</a>
-<a href="https://code.visualstudio.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />
-</a>
-<a href="https://colab.research.google.com/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_Colaboratory_SVG_Logo.svg" alt="Google Colab" width="40px" />
-</a>
-
-</p>
+Currently working in **Performance Marketing & Data Analytics**, while building my way deeper into **Data, AI and technology**.
 
 ---
 
-## 🚀 Currently Working On
+## ✦ What I do
 
-- 💍 **Smart Jewelry Try-On App** (Computer Vision + WebRTC)
-- 🧪 Improving problem-solving skills on LeetCode & HackerRank
+💻 **Performance Marketing**  
+Google Ads · Meta Ads · Microsoft Advertising
 
----
+📊 **Data & Analytics**  
+SQL · Python · Excel · GA4 · GTM · Dashboards · ROI/CPL/CPQL Analysis
 
-## 📂 Featured Projects
+🤖 **AI & Computer Vision**  
+Python · OpenCV · MediaPipe · NumPy · ML
 
-| Project | Description |
-|--------|-------------|
-| 🔗 [BasicPythonProject](https://github.com/SadhitaBarman/BasicPythonProject) | Beginner-friendly scripts in Python |
-| 🔗 [BankingSystem](https://github.com/SadhitaBarman/BankingSystem) | Bank management system with Python & DBMS |
-| 🔗 [Smart Jewelry Try-On App](https://github.com/SadhitaBarman/Smart-Jewelry-Try-On-App) | Try-on app using CV and UI design |
-| 🔗 [Real-Time Traffic Detection](https://github.com/SadhitaBarman/Real-Time-Traffic-Detection-Suite) | AI-based traffic detection system |
+🌐 **Frontend & Creative Tech**  
+HTML · CSS · JavaScript · WebRTC
 
 ---
 
-## 📫 Let’s Connect!
+## 📈 A few things I've worked on
 
-- 💌 sadhitabarman810@gmail.com
-- 💼 www.linkedin.com/in/sadhita-barman-3a2324216
+**30% NBR**  
+Improved NBR across Noida & Delhi real estate projects.
+
+**88% NBR**  
+Turned Gurgaon campaign performance around through optimisation.
+
+**End-to-end campaign analytics**  
+Worked across Google, Meta and Microsoft campaigns, tracking lead quality, conversions, CPL, CPQL and ROI.
+
+**Smart Jewelry Try-On** 💎  
+Building a real-time virtual jewelry try-on application using computer vision, facial landmarks and live camera technology.
 
 ---
-<p align="center">
-  <b><i>"Fuelled by ambition, curiosity, and caffeine ☕✨"</i></b>
-</p>
+
+## 🧠 Currently learning
+
+```text
+Advanced SQL
+      ↓
+Power BI + DAX
+      ↓
+Python + Statistics
+      ↓
+Machine Learning
+      ↓
+GenAI + LLM Applications
+      ↓
+Cloud & Deployment
+```
+
+The goal isn't to collect technologies.
+
+It's to understand **how to use them to solve better problems.**
+
+---
+
+## 🛠️ Tech I work with
+
+**Languages**
+`Python` `SQL` `C++` `JavaScript`
+
+**Data**
+`Pandas` `NumPy` `Excel` `Power BI`
+
+**Analytics**
+`GA4` `GTM` `Google Ads` `Meta Ads` `Microsoft Ads`
+
+**AI / Computer Vision**
+`OpenCV` `MediaPipe` `Machine Learning`
+
+**Web**
+`HTML` `CSS` `JavaScript` `WebRTC`
+
+**Tools**
+`Git` `GitHub` `VS Code`
+
+---
+
+## 🚀 Things I'm building
+
+🔹 **Smart Jewelry Try-On**  
+Real-time computer vision application for virtually trying on jewelry.
+
+🔹 **Marketing Analytics Projects**  
+Exploring campaign performance, lead conversion, forecasting and predictive analytics.
+
+🔹 **AI-powered experiments**  
+Finding practical ways to use GenAI for analytics, automation and marketing workflows.
+
+---
+
+## 🎯 Where I'm heading
+
+I'm building toward roles where **business problems meet data and technology**.
+
+I'm particularly interested in:
+
+`Data Analytics` · `Product Analytics` · `Marketing Analytics` · `Data Science` · `Applied AI`
+
+---
+
+## 🌱 A little beyond the code
+
+I also run a small art & jewellery business, which has taught me something technology alone can't:
+
+**building something from an idea is very different from just learning how it works.**
+
+That mindset follows me into everything I build.
+
+---
+
+### Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sadhita%20Barman-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sadhita-barman-3a2324216/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-SadhitaBarman-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SadhitaBarman)
+
+📧 **sadhitabarman810@gmail.com**
+
+---
+
+> *Learning is useful. Building is proof.*
+
+✨ **Currently learning. Currently building. Still figuring out what's next.**
